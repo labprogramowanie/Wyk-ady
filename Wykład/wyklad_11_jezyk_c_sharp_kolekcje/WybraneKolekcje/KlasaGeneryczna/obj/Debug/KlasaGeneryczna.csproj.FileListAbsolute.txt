@@ -1,0 +1,13 @@
+C:\Users\Maciek\Desktop\WybraneKolekcja\KlasaGeneryczna\bin\Debug\KlasaGeneryczna.exe.config
+C:\Users\Maciek\Desktop\WybraneKolekcja\KlasaGeneryczna\bin\Debug\KlasaGeneryczna.exe
+C:\Users\Maciek\Desktop\WybraneKolekcja\KlasaGeneryczna\bin\Debug\KlasaGeneryczna.pdb
+C:\Users\Maciek\Desktop\WybraneKolekcja\KlasaGeneryczna\obj\Debug\KlasaGeneryczna.exe
+C:\Users\Maciek\Desktop\WybraneKolekcja\KlasaGeneryczna\obj\Debug\KlasaGeneryczna.pdb
+C:\Users\Maciek\Desktop\WybraneKolekcje\KlasaGeneryczna\bin\Debug\KlasaGeneryczna.exe.config
+C:\Users\Maciek\Desktop\WybraneKolekcje\KlasaGeneryczna\obj\Debug\KlasaGeneryczna.exe
+C:\Users\Maciek\Desktop\WybraneKolekcje\KlasaGeneryczna\obj\Debug\KlasaGeneryczna.pdb
+E:\Zajecia\WykladMetodykiTechnikiProgramowania\Wyklad6_C#_KolekcjeTypyGeneryczne\WybraneKolekcje_VS_2015\WybraneKolekcje\KlasaGeneryczna\bin\Debug\KlasaGeneryczna.exe.config
+E:\Zajecia\WykladMetodykiTechnikiProgramowania\Wyklad6_C#_KolekcjeTypyGeneryczne\WybraneKolekcje_VS_2015\WybraneKolekcje\KlasaGeneryczna\obj\Debug\KlasaGeneryczna.exe
+E:\Zajecia\WykladMetodykiTechnikiProgramowania\Wyklad6_C#_KolekcjeTypyGeneryczne\WybraneKolekcje_VS_2015\WybraneKolekcje\KlasaGeneryczna\obj\Debug\KlasaGeneryczna.pdb
+E:\Zajecia\WykladMetodykiTechnikiProgramowania\Wyklad6_C#_KolekcjeTypyGeneryczne\WybraneKolekcje_VS_2015\WybraneKolekcje\KlasaGeneryczna\bin\Debug\KlasaGeneryczna.exe
+E:\Zajecia\WykladMetodykiTechnikiProgramowania\Wyklad6_C#_KolekcjeTypyGeneryczne\WybraneKolekcje_VS_2015\WybraneKolekcje\KlasaGeneryczna\bin\Debug\KlasaGeneryczna.pdb

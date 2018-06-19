@@ -1,0 +1,12 @@
+C:\Users\Maciek\Desktop\WybraneKolekcja\KolekcjaArray\bin\Debug\KolekcjaArray.exe.config
+C:\Users\Maciek\Desktop\WybraneKolekcja\KolekcjaArray\bin\Debug\KolekcjaArray.exe
+C:\Users\Maciek\Desktop\WybraneKolekcja\KolekcjaArray\bin\Debug\KolekcjaArray.pdb
+C:\Users\Maciek\Desktop\WybraneKolekcja\KolekcjaArray\obj\Debug\KolekcjaArray.csprojResolveAssemblyReference.cache
+C:\Users\Maciek\Desktop\WybraneKolekcja\KolekcjaArray\obj\Debug\KolekcjaArray.exe
+C:\Users\Maciek\Desktop\WybraneKolekcja\KolekcjaArray\obj\Debug\KolekcjaArray.pdb
+E:\Zajecia\WykladMetodykiTechnikiProgramowania\Wyklad6_C#_KolekcjeTypyGeneryczne\WybraneKolekcje_VS_2015\WybraneKolekcje\KolekcjaArray\bin\Debug\KolekcjaArray.exe.config
+E:\Zajecia\WykladMetodykiTechnikiProgramowania\Wyklad6_C#_KolekcjeTypyGeneryczne\WybraneKolekcje_VS_2015\WybraneKolekcje\KolekcjaArray\obj\Debug\KolekcjaArray.exe
+E:\Zajecia\WykladMetodykiTechnikiProgramowania\Wyklad6_C#_KolekcjeTypyGeneryczne\WybraneKolekcje_VS_2015\WybraneKolekcje\KolekcjaArray\obj\Debug\KolekcjaArray.pdb
+E:\Zajecia\WykladMetodykiTechnikiProgramowania\Wyklad6_C#_KolekcjeTypyGeneryczne\WybraneKolekcje_VS_2015\WybraneKolekcje\KolekcjaArray\bin\Debug\KolekcjaArray.exe
+E:\Zajecia\WykladMetodykiTechnikiProgramowania\Wyklad6_C#_KolekcjeTypyGeneryczne\WybraneKolekcje_VS_2015\WybraneKolekcje\KolekcjaArray\bin\Debug\KolekcjaArray.pdb
+E:\Zajecia\WykladMetodykiTechnikiProgramowania\Wyklad6_C#_KolekcjeTypyGeneryczne\WybraneKolekcje_VS_2015\WybraneKolekcje\KolekcjaArray\obj\Debug\KolekcjaArray.csprojResolveAssemblyReference.cache

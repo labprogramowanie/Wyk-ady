@@ -1,0 +1,12 @@
+C:\Users\Maciek\Desktop\WybraneKolekcje\Tablica\bin\Debug\Tablica.exe.config
+C:\Users\Maciek\Desktop\WybraneKolekcje\Tablica\bin\Debug\Tablica.exe
+C:\Users\Maciek\Desktop\WybraneKolekcje\Tablica\bin\Debug\Tablica.pdb
+C:\Users\Maciek\Desktop\WybraneKolekcje\Tablica\obj\Debug\Tablica.csprojResolveAssemblyReference.cache
+C:\Users\Maciek\Desktop\WybraneKolekcje\Tablica\obj\Debug\Tablica.exe
+C:\Users\Maciek\Desktop\WybraneKolekcje\Tablica\obj\Debug\Tablica.pdb
+E:\Zajecia\WykladMetodykiTechnikiProgramowania\Wyklad6_C#_KolekcjeTypyGeneryczne\WybraneKolekcje_VS_2015\WybraneKolekcje\Tablica\bin\Debug\Tablica.exe.config
+E:\Zajecia\WykladMetodykiTechnikiProgramowania\Wyklad6_C#_KolekcjeTypyGeneryczne\WybraneKolekcje_VS_2015\WybraneKolekcje\Tablica\obj\Debug\Tablica.exe
+E:\Zajecia\WykladMetodykiTechnikiProgramowania\Wyklad6_C#_KolekcjeTypyGeneryczne\WybraneKolekcje_VS_2015\WybraneKolekcje\Tablica\obj\Debug\Tablica.pdb
+E:\Zajecia\WykladMetodykiTechnikiProgramowania\Wyklad6_C#_KolekcjeTypyGeneryczne\WybraneKolekcje_VS_2015\WybraneKolekcje\Tablica\bin\Debug\Tablica.exe
+E:\Zajecia\WykladMetodykiTechnikiProgramowania\Wyklad6_C#_KolekcjeTypyGeneryczne\WybraneKolekcje_VS_2015\WybraneKolekcje\Tablica\bin\Debug\Tablica.pdb
+E:\Zajecia\WykladMetodykiTechnikiProgramowania\Wyklad6_C#_KolekcjeTypyGeneryczne\WybraneKolekcje_VS_2015\WybraneKolekcje\Tablica\obj\Debug\Tablica.csprojResolveAssemblyReference.cache
